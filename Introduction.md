@@ -1,4 +1,8 @@
-# Introduction to Building RAG Agents with LLMs
+# Introduction to RAG Agents
 
-This course covers the fundamentals of building Retrieval-Augmented Generation (RAG) agents using Large Language Models (LLMs). 
-Key topics include setting up environments, understanding LLM services, and practical applications using LangChain.
+Retrieval-Augmented Generation (RAG) agents combine the capabilities of retrieval systems with generative models to enhance the generation process. This approach allows for more relevant and contextually accurate outputs by leveraging external knowledge sources.
+
+## Applications
+- Conversational agents
+- Information retrieval systems
+- Content generation tools
